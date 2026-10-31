@@ -10,13 +10,7 @@ I’m still learning, building, and experimenting every day. The goal is simple:
 - Unity
 - Godot
 - C++
-- HTML
-- CSS
 - JavaScript
-- TypeScript
-- React
-- Node.js
-- .NET
 
 ## What I’m into
 
