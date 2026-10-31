@@ -8,6 +8,7 @@ I’m still learning, building, and experimenting every day. The goal is simple:
 
 - C#
 - Unity
+- Godot
 - C++
 - HTML
 - CSS
